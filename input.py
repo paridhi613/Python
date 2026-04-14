@@ -22,3 +22,9 @@
 # print("abc","def",45,67)              #comma is a default seperator
 # print("abc","def",45,67,sep=";")     #now everything will be spearated using ;
 #print("rahul",26,sep="\n")             #\n means printing in next line
+
+
+
+##CHNAGING THE VALUE OF END 
+print("rahul",56,end=" >> ")
+print("rakul",6)
