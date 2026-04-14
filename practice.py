@@ -1,9 +1,16 @@
 #help("keywords")        #gives the list of already existing keywords
 
 
+
+
+
 ## VARIABLES
 # x = 5
 # print(id(x))   # gives the memory location of the variable 
+
+
+
+
 
 
 
@@ -12,8 +19,17 @@
 
 
 
+
+
+
+
 ## INTEGER DATA TYPE
 # print(type(x))    # gives the type of x here x is of type integer 
+
+
+
+
+
 
 
 
@@ -21,6 +37,11 @@
 # b= True
 # print(b)
 # print(type(b))
+
+
+
+
+
 
 
 
@@ -32,3 +53,32 @@
 
 
 
+
+
+
+
+##STRING DATA TYPE 
+# s='i am a girl'          
+# print (s)
+
+# print()      #to print empty line 
+
+# s="i am a girl, he is a boy"
+# print (s)
+
+# print()
+
+# s="""i am a girl
+# he is boy
+# they are playing"""
+# print (s)
+
+
+
+
+
+
+##NONE DATA TYPE 
+# n= None 
+# print (n)
+# print (type(n))
