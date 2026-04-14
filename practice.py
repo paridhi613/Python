@@ -5,3 +5,5 @@ print(id(x))   # gives the memory location of the variable
 
 x= 23
 print(id(x))
+
+print(type(x))
