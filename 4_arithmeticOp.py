@@ -4,9 +4,9 @@ b=5
 print(a+b)
 print(a-b)
 print(a*b)
-print(a/b)
+print(a/b)    #always gives float value
 print(a%b)     #gives remainder
-print(a//b)    #nearest integer in left
+print(a//b)    #gives nearest integer in left
 print(a**b)    #give the power a^b
 
 
