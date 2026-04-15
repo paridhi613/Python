@@ -5,6 +5,10 @@ print(a+b)
 print(a-b)
 print(a*b)
 print(a/b)
+print(a%b)     #gives remainder
+print(a//b)    #nearest integer in left
+print(a**b)    #give the power a^b
+
 
 
 #string concatenation
