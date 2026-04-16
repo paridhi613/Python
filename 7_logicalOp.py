@@ -1,3 +1,9 @@
-print(3>5 and 9<3)
+##AND OPERATOR
+print(3>5 and 9<3)     #false
+print(3<5 and 9>3)        #true
 
-print(3<5 and 9>3)
+ 
+
+##OR OPERATOR 
+print(3<5 or 6<5)  #true
+print(4<2 or 8<3)   #false
