@@ -8,6 +8,6 @@ for i in range(n):              #starts from 0
 
          ##can also be written as
     # for i in range(1, n+1):         starts from 1 till n
-    #     for j in range(i):          i w\values will be printed
+    #     for j in range(i):          i values will be printed
     #         print("*", end = " ")
     #     print()
