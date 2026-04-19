@@ -18,3 +18,15 @@ for i in range(11):
     if i == 5:
         break              #this will stop the priting here 
     print(i,end = " ")
+
+
+print()
+
+
+m=1
+while m<=10:
+    if m == 8:
+        break
+    print(m,end=" ")
+
+    m += 1
