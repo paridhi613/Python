@@ -1,3 +1,10 @@
+##OUTPUT
+# n=4
+#    *
+#    **
+#    ***
+#    ****
+
 n=int(input())
 for i in range(n):              #starts from 0
     for j in range(i+1):        #i+1 values will be printed 
