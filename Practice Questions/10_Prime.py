@@ -1,3 +1,5 @@
+#to check whether the given integer is prime or not 
+
 n= int(input())
 is_Prime = True
 
