@@ -1,1 +1,1 @@
-print(ord("a"))
+print(ord("a"))    #ord is used to find the unicode of the string value
