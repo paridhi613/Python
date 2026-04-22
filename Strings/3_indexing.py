@@ -7,3 +7,6 @@ print(name[-5])   #return the letter at the 5th index from the last i.e 'r'
 
 #to calculate the length of the string 
 print(len(name))       #which is 7 here
+
+
+print(len("tanu"))    #we can also find the length of direct string as well
