@@ -24,5 +24,6 @@ print(name.index("i"))   #return the lowest index of the letter
 print(name.replace("a", "@"))  #replaces the old text to new one 
 
 print(name.split())  #splits the string from the space into two
+print(name.split("a"))  #splits the string from a
 
 
