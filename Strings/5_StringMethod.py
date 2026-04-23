@@ -26,4 +26,9 @@ print(name.replace("a", "@"))  #replaces the old text to new one
 print(name.split())  #splits the string from the space into two
 print(name.split("a"))  #splits the string from a
 
+print(name.isupper())    #returns true if the whole string is in uppercase
+print("PARIDHI".isupper())   #returns true coz the string is in uppercase
+
+print(name.islower())   #returns true if the whole string is in lowecase
+
 
