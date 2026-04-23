@@ -34,6 +34,8 @@ print(name.islower())   #returns true if the whole string is in lowecase
 print(name.isnumeric())   #returns true if the string is purely numeric 
 print("43".isnumeric())  #returns true 
 
+print(name.isalpha())   #return true only if the string is purely alphabetical   , here false coz of space
+print("namjoon".isalpha())   #true here
 
 
 
