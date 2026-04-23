@@ -31,4 +31,9 @@ print("PARIDHI".isupper())   #returns true coz the string is in uppercase
 
 print(name.islower())   #returns true if the whole string is in lowecase
 
+print(name.isnumeric())   #returns true if the string is purely numeric 
+print("43".isnumeric())  #returns true 
+
+
+
 
