@@ -11,3 +11,12 @@ print(name.lower())   #makes each letter in lowercase
 print(name.find("k"))   #return the lowest index of the letter
 
 print(name.count("i"))   #gives the count of the letter present in the string
+
+
+
+print(name.find("z"))    #gives -1 if the letter is not found
+print(name.count("z"))    #gives 0 if the letter if not found
+
+
+
+print(name.index("i"))   #return the lowest index of the letter
