@@ -9,3 +9,5 @@ print(name.upper())   #makes each letter capital of the string
 print(name.lower())   #makes each letter in lowercase 
 
 print(name.find("k"))   #return the lowest index of the letter
+
+print(name.count("i"))   #gives the count of the letter present in the string
