@@ -20,3 +20,9 @@ print(name.count("z"))    #gives 0 if the letter if not found
 
 
 print(name.index("i"))   #return the lowest index of the letter
+
+print(name.replace("a", "@"))  #replaces the old text to new one 
+
+print(name.split())  #splits the string from the space into two
+
+
