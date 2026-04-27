@@ -23,4 +23,7 @@ name.sort()
 print(name)
 
 
-#6. 
+#6. INSERT - inserts a new ele to the given index
+name.insert(0,10)
+print(name)
+
