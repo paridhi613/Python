@@ -9,3 +9,7 @@ print(task.index(643))
 #3. POP - remove and return the last ele of the list
 drop = task.pop()
 print(drop)
+
+#4. remove - remove the object of our choice
+task.remove(643)
+print(task)
