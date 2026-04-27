@@ -6,3 +6,6 @@ print(task.count(544))
 #2. INDEX - return the index of 1st occurance of the object
 print(task.index(643))
 
+#3. POP - remove and return the last ele of the list
+drop = task.pop()
+print(drop)
