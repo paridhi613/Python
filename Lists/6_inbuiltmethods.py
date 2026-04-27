@@ -10,6 +10,11 @@ print(task.index(643))
 drop = task.pop()
 print(drop)
 
-#4. remove - remove the object of our choice
+#4. REMOVE - remove the object of our choice
 task.remove(643)
 print(task)
+
+#5. SORT - sorts the list in asc by default
+name =[100,345,689,908,456]
+name.sort()
+print(name)
