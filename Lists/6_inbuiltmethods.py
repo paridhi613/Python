@@ -35,7 +35,7 @@ l1=[1,3,4]
 name.append(l1)
 print(name)
 
-#EXTEND - adds the ele of a list to another list as a single ele
+8. #EXTEND - adds the ele of a list to another list as a single ele
 l =[1,3,4,5,6,7]
 l3 = [4,5,9]
 l.extend(l3)
