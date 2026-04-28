@@ -27,3 +27,10 @@ print(name)
 name.insert(0,10)
 print(name)
 
+#7. APPEND - adds a new ele at the end of the list
+name.append("paridhi")
+print(name)
+
+l1=[1,3,4]
+name.append(l1)
+print(name)
