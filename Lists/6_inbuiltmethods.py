@@ -40,3 +40,7 @@ l =[1,3,4,5,6,7]
 l3 = [4,5,9]
 l.extend(l3)
 print(l)
+
+l4 = "apple"
+l.extend(l4)
+print(l)    #each letter will be added as a single ele at the end 
