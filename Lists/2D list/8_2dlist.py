@@ -10,3 +10,4 @@ print(l[0]) # first list
 print(l[1]) # second list
 
 print(l2[0]) # first element of second list
+print(l[0][0]) # first element of first list
