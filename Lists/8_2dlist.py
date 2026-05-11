@@ -5,3 +5,4 @@ l3=[7,8,9]
 l=[l1,l2,l3]
 print(l)
 print(type(l))
+
