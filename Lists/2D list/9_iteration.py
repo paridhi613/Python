@@ -10,3 +10,8 @@ for i in l:
 
 for i in l1:
     print(i)   # prints each element in l1
+
+
+for i in l:
+    for j in i:
+        print(j, end=" ")   # prints each element in l
