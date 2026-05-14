@@ -9,3 +9,8 @@ print(l)
 #more easier way 
 l=[i for i in range(14)]
 print(l)
+
+
+#to print the square of each element in l
+l=[i**2 for i in range(10)]
+print(l)
