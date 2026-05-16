@@ -21,3 +21,10 @@ print(type(t3))       #<class 'tuple'>
 t3=tuple("jungkook")
 print(t3)            #('j', 'u', 'n', 'g', 'k', 'o', 'o', 'k')
 #the string is converted into a tuple of characters
+
+
+
+#a tuple can contain multiple list 
+t4=([1,2,3],[4,5,6])
+print(t4)            #([1, 2, 3], [4, 5, 6])
+print(len(t4))
