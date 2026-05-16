@@ -1,4 +1,5 @@
 #tuples are created using round brackets
+#they are immutable (cannot be changed after creation)
 
 l=("hey","JK","how","are") 
 
