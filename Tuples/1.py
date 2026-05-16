@@ -11,3 +11,8 @@ print(l[-1])   #are
 
 #slicing
 print(l[1:3])   #('JK', 'how')
+
+#are heterogeneous (can contain different data types)
+t=(1,"hello",3.14,True)
+print(t)
+print(type(t))   #<class 'tuple'>
