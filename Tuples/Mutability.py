@@ -9,3 +9,6 @@ print(t3[0])
 
 t3[0][0]=100
 print(t3)
+
+
+#only the reference of the list is stored in the tuple, not the list itself. So we can change the list but we cannot change the reference of the list in the tuple.
