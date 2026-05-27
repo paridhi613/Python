@@ -26,3 +26,16 @@ t3=t+t2
 print(t3)  #(1, 2, 3, 4, 5, 6, 7, 8)
 
 print(t*2)  #(1, 2, 3, 4, 5, 1, 2, 3, 4, 5)   concatenates the tuple with itself  #give t two times
+
+
+
+
+
+#list to tuple and tuple to list 
+l=[1,2,3,4,5]
+t4=tuple(l)
+print(type(t4))  #(1, 2, 3, 4, 5)
+
+t5=(6,7,8)
+l2=list(t5)
+print(type(l2))  #[6, 7, 8]
