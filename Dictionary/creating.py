@@ -10,3 +10,11 @@ print(e)
 
 fruits = {'apple': 120, 'banana': 30}
 print(fruits)
+
+
+#using zip() function to create a dictionary
+name=['jeon', 'kim', 'park']
+use=['jung', 'v', 'jim']
+username=dict(zip(name, use))
+
+print(username)
