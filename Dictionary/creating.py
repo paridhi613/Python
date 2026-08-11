@@ -18,3 +18,6 @@ use=['jung', 'v', 'jim']
 username=dict(zip(name, use))
 
 print(username)
+
+
+print(len(username))
