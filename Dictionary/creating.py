@@ -20,4 +20,4 @@ username=dict(zip(name, use))
 print(username)
 
 
-print(len(username))
+print(len(username))     #gives the length of the dictionary
