@@ -13,3 +13,7 @@ print(fruits)    #guava will be added to the dict
 new={'kiwi': 20, 'mango': 30}
 fruits.update(new)
 print(fruits)    #new dictionary will be added to the existing dictionary
+
+
+#citizenship check
+print('kiwi' in fruits)    #gives True if the key is present in the dictionary
