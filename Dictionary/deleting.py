@@ -12,5 +12,4 @@ print(fruits)
 
 
 #deleting the whole dictionary using del method
-del fruits
-print(fruits)
+del fruits     #deletes the whole dictionary
