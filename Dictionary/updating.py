@@ -17,3 +17,4 @@ print(fruits)    #new dictionary will be added to the existing dictionary
 
 #citizenship check
 print('kiwi' in fruits)    #gives True if the key is present in the dictionary
+print('orange' in fruits)    #gives False if the key is not present in the dictionary
