@@ -4,3 +4,8 @@ print(fruits)
 #deleting a key-value pair using pop method 
 fruits.pop("banana")
 print(fruits)
+
+
+#deleting using popitem method
+fruits.popitem()    #removes the last inserted key-value pair
+print(fruits)
