@@ -9,3 +9,8 @@ print(fruits)
 #deleting using popitem method
 fruits.popitem()    #removes the last inserted key-value pair
 print(fruits)
+
+
+#deleting the whole dictionary using del method
+del fruits
+print(fruits)
