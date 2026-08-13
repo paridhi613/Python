@@ -13,3 +13,11 @@ print("")  #prints a new line
 
 for i in fruits:
     print(i, fruits[i])  #prints the key-value pair of the dictionary
+
+
+
+print()
+
+#using dict.items() method
+for key, value in fruits.items():
+    print(key, value)    #prints the key-value pair of the dictionary using items() method
